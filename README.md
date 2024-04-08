@@ -1,4 +1,4 @@
-#sequenciaFibonacci
+# Projeto - Sequência de Fibonacci
 
 [Descrição](#descri%C3%A7%C3%A3o)
 [Introdução](#introdu%C3%A7%C3%A3o)
@@ -6,6 +6,8 @@
 [Tecnologias Utilidadas](#tecnologias-utilizadas)
 [Fontes Consultadas](#fontes-consultadas)
 [Autores](#autores)
+
+# Projeto - Sequência de Fibonacci
 
 ## Descrição:
 ## Introdução:
