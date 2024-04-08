@@ -2,6 +2,7 @@
 
 [Autores](autores)
 
+## Funcionalidades:
 ## Tecnologias Utilizadas:
 ## Fontes Consultadas:
 ## Autores:
