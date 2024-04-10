@@ -23,9 +23,32 @@ Aqui, você pode inserir um número e calcular a soma de todos os números da se
 ## Funcionalidades:
 
 - `Calcular`: Após o usuário inserir um número na caixa de resposta, haverá um botão para calcular a soma dos números da sequência de Fibonacci até número escolhido.
- <img src="_img/resposta.png" width="40%">
+ <img src="_img/calcular.png" width="40%">
  
 ## Tecnologias Utilizadas:
+
+As tecnólogias utilizadas para a criação foram..
+
+🔧HTML🔧
+
+<img src="_img/html.png" width="30%">
+
+🔧CSS🔧
+
+<img src="_img/css.png" width="30%">
+
+🔧GitHub🔧
+
+<img src="_img/github.png" width="30%">
+
+🔧Visual Studio Code🔧
+
+<img src="_img/vscode.png" width="30%">
+
+🔧PHP🔧
+
+<img src="_img/images.png" width="30%">
+
 ## Fontes Consultadas:
 ## Autores:
 Thalyta das Neves Ferreira 3°A
