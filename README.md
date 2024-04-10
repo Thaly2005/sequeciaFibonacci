@@ -21,6 +21,10 @@ Você já ouviu falar na sequência de Fibonacci? Ela é uma sequência de núme
 
 Aqui, você pode inserir um número e calcular a soma de todos os números da sequência de Fibonacci até esse número. Basta preencher o campo abaixo e clicar em "Calcular" para ver o resultado!
 ## Funcionalidades:
+
+- `Calcular`: Após o usuário inserir um número na caixa de resposta, haverá um botão para calcular a soma dos números da sequência de Fibonacci até número escolhido.
+ <img src="_img/resposta.png" width="40%">
+ 
 ## Tecnologias Utilizadas:
 ## Fontes Consultadas:
 ## Autores:
