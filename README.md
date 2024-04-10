@@ -14,6 +14,8 @@
 
 # Projeto - Sequência de Fibonacci
 
+<img src="_img/fibonacci.gif" width="40%">
+
 ## Descrição:
 Este código cria um formulário HTML onde o usuário pode inserir um número. Quando o formulário é enviado, o PHP calcula a soma dos números da sequência de Fibonacci até esse número e exibe o resultado abaixo do formulário.
 ## Introdução:
