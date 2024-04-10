@@ -50,5 +50,8 @@ As tecnólogias utilizadas para a criação foram..
 <img src="_img/images.png" width="30%">
 
 ## Fontes Consultadas:
+
+[Toda Matéria](https://www.todamateria.com.br/sequencia-de-fibonacci/#:~:text=1%2C%201%2C%202%2C%203,de%20uma%20popula%C3%A7%C3%A3o%20desses%20animais.) - Sequência de Fibonacci
+
 ## Autores:
 Thalyta das Neves Ferreira 3°A
